@@ -1,0 +1,28 @@
+aid: upside-foods
+name: UPSIDE Foods
+description: 'UPSIDE Foods is a company surfaced as a portfolio company of softbank-vision-fund, threshold-ventures
+  and added to the API Evangelist network as a stub for enrichment. Sector: consumer. This profile is
+  a lead awaiting the enrichment pipeline.'
+url: https://raw.githubusercontent.com/api-evangelist/upside-foods/refs/heads/main/apis.yml
+x-type: company
+x-source: vc-portfolio
+x-backed-by:
+- softbank-vision-fund
+- threshold-ventures
+x-tier: stub
+x-tier-reason: portfolio-lead
+specificationVersion: '0.20'
+created: '2026-07-17'
+modified: '2026-07-17'
+tags:
+- Company
+- Consumer
+apis: []
+maintainers:
+- FN: Kin Lane
+  email: kin@apievangelist.com
+- FN: APIs.json
+  email: info@apis.io
+common:
+- type: Website
+  url: https://www.upsidefoods.com/
