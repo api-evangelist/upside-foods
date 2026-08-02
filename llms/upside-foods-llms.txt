@@ -1,0 +1,23 @@
+# UPSIDE Foods
+
+> UPSIDE Foods is a cultivated meat company that grows real chicken directly from animal cells — no factory farming — in cultivator tanks, starting from a master cell bank derived from a single heritage-breed chicken egg. The company supplies cultivated chicken to foodservice partners and does not publish a public API or developer program.
+
+UPSIDE Foods is a consumer food company backed by SoftBank Vision Fund and Threshold Ventures. As of 2026-07-21 it publishes no developer portal, API documentation, machine-readable specs, or /.well-known/ discovery surface.
+
+## Company
+
+- [Website](https://upsidefoods.com/): UPSIDE Foods — Make Meat Right
+- [Foodservice](https://upsidefoods.com/foodservice/): Cultivated chicken for foodservice partners
+- [Education](https://upsidefoods.com/education/): How cultivated meat is made
+- [Blog](https://upsidefoods.com/blog/): Company news and stories
+- [Contact](https://upsidefoods.com/contact/): Contact and partnership inquiries
+- [Careers](https://upsidefoods.com/careers/): Open roles
+
+## Policies
+
+- [Terms of Service](https://upsidefoods.com/terms-of-service/)
+- [Privacy Policy](https://upsidefoods.com/privacy/)
+
+## Catalog
+
+- [APIs.json](https://raw.githubusercontent.com/api-evangelist/upside-foods/refs/heads/main/apis.yml): API Evangelist profile for UPSIDE Foods (no APIs discovered)

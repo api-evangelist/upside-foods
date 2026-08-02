@@ -1,8 +1,12 @@
 aid: upside-foods
 name: UPSIDE Foods
-description: 'UPSIDE Foods is a company surfaced as a portfolio company of softbank-vision-fund, threshold-ventures
-  and added to the API Evangelist network as a stub for enrichment. Sector: consumer. This profile is
-  a lead awaiting the enrichment pipeline.'
+description: 'UPSIDE Foods is a cultivated meat company that grows real chicken directly
+  from animal cells instead of raising and slaughtering animals. Starting from a master
+  cell bank derived from a single heritage-breed chicken egg, cells are fed vitamins,
+  minerals, and nutrients and grown in cultivator tanks, becoming cultivated chicken
+  in about three weeks. The company supplies cultivated chicken to foodservice partners
+  and is backed by SoftBank Vision Fund and Threshold Ventures. UPSIDE Foods publishes
+  no public API, developer portal, or machine-readable interfaces as of July 2026.'
 url: https://raw.githubusercontent.com/api-evangelist/upside-foods/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,12 +15,29 @@ x-backed-by:
 - threshold-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
+image: https://upsidefoods.com/wp-content/themes/bravestar/images/apple-touch-icon.png
 tags:
 - Company
 - Consumer
+- Food
+- Cultivated Meat
+- Alternative Protein
+- Biotechnology
+- Foodservice
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -26,3 +47,24 @@ maintainers:
 common:
 - type: Website
   url: https://www.upsidefoods.com/
+- type: Blog
+  url: https://upsidefoods.com/blog/
+- type: Support
+  url: https://upsidefoods.com/contact/
+- type: TermsOfService
+  url: https://upsidefoods.com/terms-of-service/
+- type: PrivacyPolicy
+  url: https://upsidefoods.com/privacy/
+- type: LinkedIn
+  url: https://www.linkedin.com/company/upsidefoods/
+- type: Instagram
+  url: https://www.instagram.com/upsidefoods/
+- type: LLMsTxt
+  url: llms/upside-foods-llms.txt
+- type: DomainSecurity
+  url: security/upside-foods-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 3
+  pass: local-v1
